@@ -1,0 +1,16 @@
+Cheatsheet:
+
+TO RUN THE JEKYLL SERVER:
+jekyll serve --watch --host $IP --port $PORT
+
+
+Once server is running, you can open up this URL:
+https://anthonybates_github_io-c9-anthonbates.c9.io
+
+TO Shut Down Server:
+ctrl-C
+
+
+git add -A
+git commit -m "My Commit message"
+git push
