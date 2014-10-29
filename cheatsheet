@@ -1,13 +1,14 @@
 Cheatsheet:
 
 TO RUN THE JEKYLL SERVER:
-jekyll serve --watch --host $IP --port $PORT
+jekyll serve --host $IP --port $PORT --watch
+
 
 
 Once server is running, you can open up this URL:
 https://anthonybates_github_io-c9-anthonbates.c9.io
 
-TO Shut Down Server:
+TO Shut Down Serv
 ctrl-C
 
 
